@@ -1,2 +1,2 @@
 # wpmeetup
-The official repository of the WordPress Meetup Tehran website. https://wpmeetup.ir/
+The official repository of the Tehran WordPress Meetup website. https://wpmeetup.ir/
