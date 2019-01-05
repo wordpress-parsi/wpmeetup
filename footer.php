@@ -4,7 +4,7 @@
     		<div class="row">
     		    <div class="col-lg-12">
         		    <small class="pull-right">حق نشر برای عموم آزاد است</small>
-        		    <small class="pull-left">قدرت گرفته از <a href="https://wordpress.org" target="_blank">وردپرس</a></small>
+        		    <small class="pull-left">قدرت گرفته از <a href="https://wordpress.org" title="WordPress.org" target="_blank">وردپرس</a></small>
     		    </div>
     		</div>
 		</div>
