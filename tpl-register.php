@@ -1,5 +1,8 @@
 <?php
 /*Template Name: برگه ثبت نام*/
+if(is_user_logged_in())
+	wp_redirect(home_url());
+
 get_header();
 
 if( isset( $_POST['foundation_reg_nonce'] ) ){

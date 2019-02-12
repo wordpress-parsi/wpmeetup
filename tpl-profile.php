@@ -1,5 +1,8 @@
 <?php
 /*Template Name: برگه کاربری*/
+if(!is_user_logged_in())
+	wp_redirect(home_url());
+
 get_header();
 $userid = get_current_user_id();
 ?>
