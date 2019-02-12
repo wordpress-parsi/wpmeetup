@@ -1,5 +1,8 @@
 <?php
 /*Template Name: برگه ورود*/
+if(is_user_logged_in())
+	wp_redirect(home_url());
+
 get_header();
 ?>
 	<div class="container columns">
